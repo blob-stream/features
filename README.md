@@ -2,6 +2,7 @@
 
 **[Kanban board](https://huboard.com/blob-stream/features/)**
 
+
 ## Epic
 
 1. Man kann Gruppen gruenden und Leute einladen.
@@ -10,11 +11,9 @@
 4. Eintraege werden in einem Stream dargestellt.
 5. Gestarrte Eintraege wandern noch einmal nach oben.
 
-***
 
-<small>
-Learn about:
+## General ressources
+
 - [Notifications, @mentions, and references](https://guides.github.com/features/issues/#notifications)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Closing issues via commit messages](https://help.github.com/articles/closing-issues-via-commit-messages/)
-</small>
