@@ -11,6 +11,8 @@
 4. Eintraege werden in einem Stream dargestellt.
 5. Gestarrte Eintraege wandern noch einmal nach oben.
 
+![infrastructure](https://cloud.githubusercontent.com/assets/85259/15560260/1c85993e-22ea-11e6-9a9f-39e84f48c255.jpg)
+
 
 ## General ressources
 
